@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackPan20
-- 👀 I’m interested in programming Websites 
+- 👀 I’m interested in programming websites 
 - 🌱 I’m currently learning HTML,CSS, Java Script, React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
